@@ -1,6 +1,4 @@
-![SheZone Banner](banner.png)
-
-SheZone - Women’s Safety App 
+SheZone - Women's Safety App
 
 SheZone is an intelligent women’s safety application designed to ensure security through real-time analysis, SOS alerts, and safe route suggestions.  
 It combines machine learning and geospatial analysis to predict unsafe zones and provide safer travel recommendations.
