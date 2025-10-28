@@ -31,7 +31,7 @@ It combines machine learning and geospatial analysis to predict unsafe zones and
 - Project Execution Video  
 
 5. Team:
-Developed by Rithika Rani.B and Teammate Priyadharshini.S .From the Department of Computer Science and Engineering (III Year) at Panimalar Engineering College.
+Developed by "Rithika Rani.B and Teammate Priyadharshini.S" .From the Department of "Computer Science and Engineering (III Year) at Panimalar Engineering College".
 
 - This repository contains only documentation and reports of the SheZone project.  
 - The source code is kept private for security and academic reasons.
